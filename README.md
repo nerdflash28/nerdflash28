@@ -7,7 +7,7 @@
 
 ### About me:
 
-- 🔭 I’m currently working on **PBSPro**
+- 🔭 I’m currently working on **HPC & DevOps**
 
 - 💬 Ask me about **Gym and cycling**
 
